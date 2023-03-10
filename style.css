@@ -1,0 +1,127 @@
+body
+{
+    background-color: grey;
+    margin: 0;
+}
+.wel
+{
+    border: 4px solid red;
+    border-radius: 12px;
+    padding: 15px;
+    width: 20%;
+    margin-left: 500px;
+    background-color: white;
+    color: red;
+    font-size: 30px;
+    align-items: center;
+    box-shadow: 10px 10px purple;
+}
+.four
+{
+    border: 6px solid green;
+}
+.add
+{
+    border: 4px solid red;
+    border-radius: 12px;
+    padding: 15px;
+    width: 20%;
+    background-color: white;
+    color: rebeccapurple;
+    font-size: 15px;
+    position: relative;
+    box-shadow: 10px 10px purple;
+}
+.img
+{
+    border: 4px solid red;
+    border-radius: 12px;
+    background-color: white;
+    width: 300px;
+    height: 172px;
+    margin-left: 930px;
+    position: absolute;
+    top: 205px;
+    box-shadow: 10px 10px purple;
+}
+.best
+{
+    border: 4px solid red;
+    border-radius: 12px;
+    padding: 15px;
+    width: 20%;
+    background-color: white;
+    color: rebeccapurple;
+    font-size: 15px;
+    justify-content: center;
+    position: relative;
+    top: 235px;
+    box-shadow: 10px 10px purple;
+}
+.please
+{
+    border: 4px solid red;
+    border-radius: 12px;
+    padding: 25px;
+    width: 20%;
+    background-color: white;
+    color: rebeccapurple;
+    font-size: 15px;
+    justify-content: center;
+    line-height: 30px;
+    font-weight: bold;
+    margin-left: 930px;
+    box-shadow: 10px 10px purple;
+    position: relative;
+    bottom: 15px;
+}
+button
+{
+    background-color: red;
+    border-radius: 40px;
+}
+.mon
+{
+    border: 4px solid red;
+    border-radius: 12px;
+    background-color: lawngreen;
+    color: red;
+    width: 40%;
+    height: 15%;
+    box-shadow: 10px 10px purple;
+    justify-content: center;
+    padding: 5px;
+    position: fixed;
+    top: 500px;
+    bottom: 95px;
+    left: 350px;
+}
+.to
+{
+    border: 6px solid purple;
+    background-color: green;
+    width: 50%;
+    margin-left: 320px;
+}
+.bh
+{
+    display: flex;
+}
+.fru
+{
+    border: 2px solid gray;
+    background-color: yellow;
+    width: 50%;
+}
+.veg
+{
+    border: 2px solid gray;
+    background-color: yellow;
+    width: 50%;
+}
+.oth
+{
+    border: 2px solid gray;
+    background-color: yellow;
+}
+
